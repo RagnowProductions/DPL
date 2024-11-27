@@ -1,0 +1,3 @@
+insert var "page" as path("helloworld.html")
+insert var "hwgoeshere" as page.html.getID("hworld").inner
+change hwgoeshere to "Hello, world!"
